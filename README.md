@@ -3,7 +3,6 @@
 Hi,<br>
 welcome to my profile.
 ## Who am I?
-- 20 years old student at VUT FIT
 ### Beginner (aka I just started lol):
 - Game Dev
 - Artist
