@@ -23,6 +23,8 @@ welcome to my profile.
 ### Animation
 [![OpenToonz](https://www.startpage.com/av/proxy-image?piurl=http%3A%2F%2Fgarr8.altervista.org%2Fwp-content%2Fuploads%2F2016%2F03%2FOpenToonz_logo.jpg&sp=1730969193T2c50d12134f3457a5b298980836ae8b6d05f8937bad1132965e62e3317761be6)](https://opentoonz.github.io/e/)
 ### Drawing
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/948139158222831637)
 <!---
